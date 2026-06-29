@@ -54,6 +54,6 @@
 
 ## Author
 
-**Md Salauddin**
+**Md Salauddin**,
 
 B.Tech CSE Student
