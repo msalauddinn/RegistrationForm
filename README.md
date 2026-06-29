@@ -52,8 +52,8 @@
 - Creating reusable Composable functions.
 - Organizing a Compose project into multiple components.
 
-## Author
+## 👩‍🎓 Author
 
-**Md Salauddin**,
+**Md Salauddin**
 
 B.Tech CSE Student
