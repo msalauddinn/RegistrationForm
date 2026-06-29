@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string-array name="country">
+        <item>Select Country</item>
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Shri Lanka</item>
+        <item>China</item>
+        <item>Pakistan</item>
+    </string-array>
+</resources>
